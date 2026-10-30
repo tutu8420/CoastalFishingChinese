@@ -6,6 +6,13 @@
 
 这是 [Coastal Fishing](https://thunderstore.io/c/valheim/p/EchoesOfBunglas/CoastalFishing/)（作者 EchoesOfBunglas）的**简体中文汉化补丁**，同时附带三项改善。**不修改原 mod 的任何文件**，作者更新时不会冲突。
 
+![大龙虾改后](https://raw.githubusercontent.com/tutu8420/CoastalFishingChinese/main/images/big-lobster-in-world.jpg)
+
+> 尺寸参照：下面这是原版金枪鱼（游戏自带模型，本来就是按真鱼做的），改后的大龙虾就是朝这个体量去的
+>
+> ![金枪鱼参照](https://raw.githubusercontent.com/tutu8420/CoastalFishingChinese/main/images/vanilla-tuna-for-scale.jpg)
+
+
 ---
 
 ## 这个包做了什么
