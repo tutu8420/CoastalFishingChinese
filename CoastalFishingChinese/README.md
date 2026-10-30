@@ -6,11 +6,27 @@
 
 这是 [Coastal Fishing](https://thunderstore.io/c/valheim/p/EchoesOfBunglas/CoastalFishing/)（作者 EchoesOfBunglas）的**简体中文汉化补丁**，同时附带三项改善。**不修改原 mod 的任何文件**，作者更新时不会冲突。
 
-![大龙虾改后](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/big-lobster-in-world.jpg)
+**1. 尺寸对比（同一张桌子上）**
 
-> 尺寸参照：下面这是原版金枪鱼（游戏自带模型，本来就是按真鱼做的），改后的大龙虾就是朝这个体量去的
->
-> ![金枪鱼参照](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/vanilla-tuna-for-scale.jpg)
+![尺寸对比](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/lobster-size-compare.jpg)
+
+> 左边那堆是**原样**的龙虾，右边那只紫色大螃蟹是放大后的效果。原版里它们本该差不多大。
+
+**2. 改后的大龙虾，站在草地里**
+
+![大龙虾在野外](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/big-lobster-in-world.jpg)
+
+**3. 挂上物品架（本包修复的功能）**
+
+![挂在物品架上](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/lobster-on-item-stand.jpg)
+
+> 原版物品架对龙虾一律拒绝，这个包补了挂点、放行了类型检查，现在它真的能挂墙。
+
+**4. 参照物：原版金枪鱼**
+
+![金枪鱼参照](https://cdn.jsdelivr.net/gh/tutu8420/CoastalFishingChinese@main/images/vanilla-tuna-for-scale.jpg)
+
+> 金枪鱼是游戏自带模型，本来按真鱼做的大小。我们的目标就是让大龙虾接近这个体量。
 
 
 ---
