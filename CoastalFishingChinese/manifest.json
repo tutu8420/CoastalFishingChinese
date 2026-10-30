@@ -1,0 +1,10 @@
+{
+  "name": "CoastalFishingChinese",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Coastal Fishing 的简体中文汉化，附带把巴掌大的龙虾放大成真正的大龙虾，并支持挂在物品架上展示。",
+  "dependencies": [
+    "EchoesOfBunglas-CoastalFishing-2.2.6",
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
