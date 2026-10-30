@@ -97,6 +97,9 @@ BepInEx/config/dsh.coastalfishing.chinese.cfg
 ## 反馈与源码
 
 - 源码 / 问题反馈：<https://github.com/tutu8420/CoastalFishingChinese>
+- 作者 GitHub：<https://github.com/tutu8420>（汉化、补丁、这个包的源码都在这个账号下）
+- Discord：`tutu8420`（加好友可直接问我）
+
 - 汉化词表、放大倍数的默认值、补丁代码都在这个仓库里，欢迎提 Issue 或 PR
 - 说明页里的截图也托管在同一个仓库（`images/` 目录），通过 jsDelivr CDN 提供，国内可直接加载
 ## 致谢
