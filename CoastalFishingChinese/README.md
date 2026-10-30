@@ -94,6 +94,11 @@ BepInEx/config/dsh.coastalfishing.chinese.cfg
 
 ---
 
+## 反馈与源码
+
+- 源码 / 问题反馈：<https://github.com/tutu8420/CoastalFishingChinese>
+- 汉化词表、放大倍数的默认值、补丁代码都在这个仓库里，欢迎提 Issue 或 PR
+- 说明页里的截图也托管在同一个仓库（`images/` 目录），通过 jsDelivr CDN 提供，国内可直接加载
 ## 致谢
 
 - **EchoesOfBunglas** —— 原 mod 的玩法设计（放网、泡笼、拉绳、分拣）做得很有味道，汉化和放大只是锦上添花
